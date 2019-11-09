@@ -1,3 +1,5 @@
 # hello-world
+
 A short description.
- bit about myself.
+
+Bit about myself.
